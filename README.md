@@ -69,7 +69,7 @@ Express shipping users tend to spend more → upsell opportunity.
 ###### Technologies Used
 Python (EDA)
 Pandas, NumPy, Matplotlib, Seaborn
-PostgreSQL (Business queries)
+MYSQL (Business queries)
 Power BI (Dashboard visualization)
 Git & GitHub (Version control)
 
